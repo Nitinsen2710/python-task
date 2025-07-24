@@ -1,6 +1,5 @@
 input1=float(input("Enter the first number:"))
 input2=float(input("Enter the second number:"))
-print()
 print("Addition:",input1+input2)
 print("Substraction:",input1-input2)
 print("Multiplication:",input1*input2)
