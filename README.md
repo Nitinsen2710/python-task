@@ -1,3 +1,13 @@
+<!-- git status
+git add .
+git commit -m "---"
+git pull origin master
+git push origin master -->
+
+
+
+
+
 It includes the following two Python programs:
 - ✅ Task 1: Basic Mathematical Operations
 - ✅ Task 2: Personalized Greeting
@@ -46,3 +56,23 @@ Enter your last name: Doe
 
 #Output
 Hello, John Doe! Welcome to the Python program.
+
+
+#Assignment 2
+
+#task-1.py
+The user is prompted to enter a number.
+The program converts the input into an integer.
+It uses the modulus operator (%) to check if the number is divisible by 2.
+If the remainder is 0, the number is even.
+Otherwise, the number is odd.
+It prints the result accordingly.
+
+#task-2.py
+A variable num1 is initialized to 1 (starting number).
+A variable sum is initialized to 0 (to store the running total).
+The program enters a while loop that runs as long as num1 is less than or equal to 50.
+In each iteration:
+The current value of num1 is added to sum.
+num1 is incremented by 1.
+After the loop completes, it prints the total sum.
